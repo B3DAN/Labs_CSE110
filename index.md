@@ -25,7 +25,7 @@ I did have a little trouble with the first part of this assignment, specifically
 
 But videos [like this](https://www.youtube.com/watch?v=dQw4w9WgXcQ) give me hope. (External Link)
 
-For a little more basic information, [check out my README](README.md). (Relative Link)
+For a little more basic information, [check out my README](https://github.com/B3DAN/Labs_CSE110/blob/2b69929e67fe332004ff456771dc15c468268f9f/README.md). (Relative Link)
 
 Personally though, if I had to list some of my favorite things, they would be:
 1. Snowboarding
